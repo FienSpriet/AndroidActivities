@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Activities</string>
+    <string name="onCreate">Amount of onCreate():</string>
+    <string name="onStart">Amount of onStart():</string>
+    <string name="onResume">Amount of onResume():</string>
+    <string name="onPause">Amount of onPause():</string>
+    <string name="onRestart">Amount of onRestart():</string>
+    <string name="onStopping">Amount of onStop():</string>
+    <string name="onDestroy">Amount of onDestroy():</string>
+    <string name="goToSecondActivity">Go to next activity</string>
+    <string name="goToFirstActivity">Go back to first activity</string>
+</resources>
